@@ -1,0 +1,20 @@
+auto: true
+server: true
+permalink: none
+baseurl: ""
+exclude:
+- .gitignore
+- README.md
+
+prose:
+  rooturl: ""
+  metadata: 
+    _posts/articles: |
+      published: false
+      layout: article
+      title: Your Post Title
+      abstract: Short summary of your article.
+      author_twitter: patrickshouse
+      author: Patrick Shouse
+      categories:
+      - articles
