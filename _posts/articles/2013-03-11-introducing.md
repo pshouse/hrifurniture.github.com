@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Introducing HRI Furniture's New Website
-abstract: We're imporving our our home on the Web.
+title: Introducing HRI's New Website
+abstract: We're imporving our home on the Web.
 author_twitter: 
 author: 
 categories:
