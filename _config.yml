@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: ""
+baseurl: "hrifurniture.github.com"
 exclude:
 - .gitignore
 - README.md
