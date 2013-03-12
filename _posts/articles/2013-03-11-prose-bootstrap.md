@@ -9,5 +9,6 @@ categories:
 published: true
 ---
 
-Over the next few weeks we'll be shaking off the dust, and applying a fresh coat of paint.
+You can look forward to some big changes around here. Over the next few weeks we'll be shaking off the dust, and applying a fresh coat of paint.
+
 ![](images/logo.jpg)
