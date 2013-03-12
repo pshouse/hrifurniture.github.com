@@ -10,4 +10,4 @@ published: true
 ---
 
 
-![](http://prose.io/images/screenshots/edit.png)
+![](images/logo.jpg)
