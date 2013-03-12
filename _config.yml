@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: "hrifurniture.github.com"
+baseurl: "http://reliantcloudcomputing.com/hrifurniture.github.com"
 exclude:
 - .gitignore
 - README.md
