@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Introducing HRI Furniture
-abstract: Providers of workspace furnishings since 1949
+title: Introducing HRI Furniture's New Website
+abstract: We're imporving our our home on the Web.
 author_twitter: 
 author: 
 categories:
@@ -9,5 +9,5 @@ categories:
 published: true
 ---
 
-test
+Over the next few weeks we'll be shaking off the dust, and applying a fresh coat of paint.
 ![](images/logo.jpg)
